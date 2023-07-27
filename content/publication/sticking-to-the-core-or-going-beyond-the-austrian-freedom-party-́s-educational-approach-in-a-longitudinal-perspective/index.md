@@ -8,7 +8,7 @@ authors:
   - Oliver Gruber
   - admin
 author_notes:
-  - Equal contribution
+  - ""
   - Equal contribution
 doi: https://doi.org/10.1080/14782804.2023.2221188
 publication: "Journal of Contemporary European Studies "

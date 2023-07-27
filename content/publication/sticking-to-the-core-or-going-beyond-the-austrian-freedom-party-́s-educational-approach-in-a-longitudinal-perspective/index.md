@@ -11,7 +11,7 @@ author_notes:
   - ""
   - Equal contribution
 doi: https://doi.org/10.1080/14782804.2023.2221188
-publication: "*Journal of Contemporary European Studies*, online first.  "
+publication: "*Journal of Contemporary European Studies*, online first"
 abstract: Although populist radical right parties (PRRPs) are actively studied
   in recent years, few research has addressed their approach to education
   policy. Previously not considered one of their signature issues, this paper
@@ -33,6 +33,7 @@ abstract: Although populist radical right parties (PRRPs) are actively studied
   growing party age and government experience on PRRPs’ positions.
 draft: false
 featured: false
+projects: []
 image:
   filename: featured
   focal_point: Smart

@@ -30,7 +30,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
+  - name: University of Vienna
     url: https://www.stanford.edu/
 education:
   courses:

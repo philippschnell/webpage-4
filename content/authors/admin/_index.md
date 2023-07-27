@@ -5,8 +5,9 @@ bio: My research interests include education policy, social inequalities,
   immigration.
 interests:
   - Education Policy
-  - Social Inequalities
+  - Educational Inequalities
   - Immigration
+  - Children of Immigrants
 social:
   - icon: envelope
     icon_pack: fas

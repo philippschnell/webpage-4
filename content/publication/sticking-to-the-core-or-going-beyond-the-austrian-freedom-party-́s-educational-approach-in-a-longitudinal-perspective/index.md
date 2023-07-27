@@ -31,7 +31,7 @@ abstract: Although populist radical right parties (PRRPs) are actively studied
   positions become more nuanced, albeit only within the already established
   traits. These findings corroborate theoretical arguments for the influence of
   growing party age and government experience on PRRPs’ positions.
-draft: true
+draft: false
 featured: false
 image:
   filename: featured

@@ -29,6 +29,11 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - display:
+      header: false
+    link: contact2
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: University of Vienna
     url: https://www.stanford.edu/
@@ -49,7 +54,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: philipp.schnell@univie.ac.at
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

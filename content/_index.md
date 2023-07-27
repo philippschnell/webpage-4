@@ -3,7 +3,6 @@
 title: Philipp Schnell
 date: 2022-10-24
 type: landing
-
 sections:
   - block: about.biography
     id: about

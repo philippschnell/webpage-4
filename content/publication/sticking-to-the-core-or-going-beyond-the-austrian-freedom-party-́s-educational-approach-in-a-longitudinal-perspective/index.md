@@ -6,9 +6,10 @@ publication_types:
   - "2"
 authors:
   - Oliver Gruber
-  - Philipp Schnell
+  - admin
 author_notes:
-  - equal contribution
+  - Equal contribution
+  - Equal contribution
 doi: https://www.tandfonline.com/doi/full/10.1080/14782804.2023.2221188
 publication: "Journal of Contemporary European Studies "
 abstract: Although populist radical right parties (PRRPs) are actively studied

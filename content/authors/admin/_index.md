@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/phschnell
     label: Follow me on Twitter
     display:
       header: true
@@ -29,11 +29,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - display:
-      header: false
-    link: contact2
-    icon_pack: fas
-    icon: envelope
 organizations:
   - name: University of Vienna
     url: https://www.stanford.edu/

@@ -10,7 +10,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: https://www.tandfonline.com/doi/full/10.1080/14782804.2023.2221188
+doi: https://doi.org/10.1080/14782804.2023.2221188
 publication: "Journal of Contemporary European Studies "
 abstract: Although populist radical right parties (PRRPs) are actively studied
   in recent years, few research has addressed their approach to education

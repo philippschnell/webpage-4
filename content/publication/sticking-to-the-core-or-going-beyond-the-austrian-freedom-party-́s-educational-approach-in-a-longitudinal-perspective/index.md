@@ -7,6 +7,8 @@ publication_types:
 authors:
   - Oliver Gruber
   - Philipp Schnell
+author_notes:
+  - equal contribution
 doi: https://www.tandfonline.com/doi/full/10.1080/14782804.2023.2221188
 publication: "Journal of Contemporary European Studies "
 abstract: Although populist radical right parties (PRRPs) are actively studied
@@ -28,7 +30,7 @@ abstract: Although populist radical right parties (PRRPs) are actively studied
   positions become more nuanced, albeit only within the already established
   traits. These findings corroborate theoretical arguments for the influence of
   growing party age and government experience on PRRPs’ positions.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured

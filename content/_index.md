@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: about.biography
     id: about
-    content:
+    content: 
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -102,11 +102,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:

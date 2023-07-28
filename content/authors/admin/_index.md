@@ -36,15 +36,15 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Sociology
+      institution: University of Amsterdam
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Sociology
+      institution: Free University Berlin
+      year: 2007
+    - course: BA in Sociology
+      institution: University of Bonn
+      year: 2003
 superuser: true
 status:
   icon: ☕️

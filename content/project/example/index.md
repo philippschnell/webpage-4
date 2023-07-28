@@ -2,9 +2,9 @@
 slides: example
 url_pdf: ""
 title: Education Policy
-summary: An example of using the in-built project page.
+summary: Austria and beyond
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 subtitle: Austria and beyond

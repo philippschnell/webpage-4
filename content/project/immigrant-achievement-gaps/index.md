@@ -2,17 +2,16 @@
 slides: example
 url_pdf: ""
 title: Immigrant Achievement Gaps
-summary: An example of using the in-built project page.
+summary: Cross-national perspectives
 url_video: ""
 date: 2023-07-28T08:28:10.194Z
 external_link: ""
 url_slides: ""
 subtitle: Cross-national perspectives
-tags:
-  - EducationPolicy
+tags: []
 links: []
 image:
-  caption: Photo by Sandip Roy on Unsplash
+  caption: Photo by Crissy Jarvis on Unsplash
   focal_point: Smart
   filename: crissy-jarvis-gdl-uzfnd3i-unsplash.jpg
 url_code: ""

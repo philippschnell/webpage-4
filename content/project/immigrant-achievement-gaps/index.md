@@ -14,7 +14,7 @@ links: []
 image:
   caption: Photo by Sandip Roy on Unsplash
   focal_point: Smart
-  filename: sandip-roy-ahqzcmz9zse-unsplash.jpg
+  filename: crissy-jarvis-gdl-uzfnd3i-unsplash.jpg
 url_code: ""
 ---
 

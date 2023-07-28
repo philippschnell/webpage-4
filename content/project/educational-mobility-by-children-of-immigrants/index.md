@@ -14,7 +14,7 @@ links: []
 image:
   caption: Photo by Sandip Roy on Unsplash
   focal_point: Smart
-  filename: sam-poullain-tuazpj1uazs-unsplash.jpg
+  filename: sam-balye-w1fwdvirezu-unsplash.jpg
 url_code: ""
 ---
 

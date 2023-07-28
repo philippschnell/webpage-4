@@ -14,7 +14,7 @@ links: []
 image:
   caption: Photo by Sandip Roy on Unsplash
   focal_point: Smart
-  filename: front-cover-schnell-cat.jpg
+  filename: sam-poullain-tuazpj1uazs-unsplash.jpg
 url_code: ""
 ---
 

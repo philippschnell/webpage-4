@@ -1,6 +1,7 @@
 ---
 title: Philipp Schnell
 role: "Sociology "
+avatar_filename: philipp-schnell-5-.jpg
 bio: My research interests include education policy, social inequalities,
   immigration.
 interests:
